@@ -1,0 +1,23 @@
+{
+  "name": "abv-bc-session1",
+  "version": "1.0.0",
+  "description": "Home Sessions Day -1 Repo",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-charis/abv-bc-session1.git"
+  },
+  "author": "John Charis Chukwuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john-charis/abv-bc-session1/issues"
+  },
+  "homepage": "https://github.com/john-charis/abv-bc-session1#readme"
+}
